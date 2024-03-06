@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "producto": "Molinillo eléctrico de granos de café y especias",
+            "unidad": 1,
+            "precio": 55000,
+            "talla": "Rápido y uniforme, con potentes motores y cuchillas duraderas, puede moler de manera eficiente y uniforme.",
+            "categoria": "cocina",
+            "img_portafolio": "assets/img/portfolio/Velez Trio.jpeg"
+        },
+        {
+            "producto": "Crispetera cuadrada",
+            "unidad": 1,
+            "precio": 75000,
+            "talla": "Es una máquina portátil que permite hacer palomitas frescas y sabrosas.",
+            "categoria": "Cocina",
+            "img_portafolio": "assets/img/portfolio/Bodys Polylicras.jpeg"
+        },
+        {
+            "producto": "Ventilador de cuello portátil recargable",
+            "unidad": 1,
+            "precio": 40000,
+            "talla": "El ventilador manos libres fue diseñado como un auricular para liberar tus manos.",
+            "categoria": "cuidado_personal",
+            "img_portafolio": "assets/img/portfolio/SandaliaTaconCorrido.jpeg"
+        },
+        {
+            "producto": "Kit 4 Bolsas Ahorradoras De Espacio 80x60 + Bomba Eléctrica",
+            "unidad": 1,
+            "precio": 60000,
+            "talla": "37 AL 43",
+            "categoria": "hogar",
+            "img_portafolio": "assets/img/portfolio/HugoBOOS.jpg"
+        },
+        {
+            "producto": "bolso de yute y plataforma",
+            "unidad": 2,
+            "precio": 70,
+            "talla": "37 AL 40",
+            "categoria": "accesorios",
+            "img_portafolio": "assets/img/portfolio/BolsoDeYuteYPlataforma.JPEG"
+        }
+    ]
+}
